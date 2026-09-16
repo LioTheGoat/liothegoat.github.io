@@ -9,4 +9,4 @@ I go to school willing to learn and get my education and my goal is to graduate 
 
 [NoteBook](notebook.md)
 
-[Home](index/md)
+[Home](index.md)
